@@ -6,13 +6,13 @@
     "type": "commonjs",
     "license": "GPL-3.0",
   "scripts": {
-     "start": "pm2 start index.js --deep-monitoring --attach --name NILU",
-     "stop": "pm2 stop NILU",
-     "restart": "pm2 restart NILU"
+     "start": "pm2 start index.js --deep-monitoring --attach --name THARA",
+     "stop": "pm2 stop THARA",
+     "restart": "pm2 restart THARA"
      },
   "repository": {
   "type": "git",
-  "url": "git+https://github.com/anithsadanuwan/THARA WA: BOT.git"
+  "url": "git@github.com:CHAMI03/THARA-BOT.git"
   },
   "keywords": [
   "whatsapp",
@@ -27,7 +27,7 @@
   ],
   "author": "CHAMI",
   "developer": "CHAMINDU",
-  "homepage": "https://github.com/anithsadanuwan/THARA WA: BOT",
+  "homepage": "https://github.com/CHAMI03/THARA-BOT.git",
   "dependencies": {
   "@adiwajshing/baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
   "@adiwajshing/keyed-db": "^0.2.4",
