@@ -13,5 +13,10 @@
 
 ## [`SCAN QR CODE`](https://replit.com/@CHAMI031/Queen-THARA?v=1)
 
+
+## [`Deploy Replit`](https://replit.com/github/AbhishekSuresh2/ABHISHEK-SER"><img title="ABHISHEK-SER Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit)
+
+<a href="https://replit.com/github/AbhishekSuresh2/ABHISHEK-SER"><img title="ABHISHEK-SER Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+
 ## THANKS FOR USING THARA BOT 💃
  💃
