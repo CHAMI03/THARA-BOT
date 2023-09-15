@@ -14,7 +14,6 @@
 ## [`SCAN QR CODE`](https://replit.com/@CHAMI031/Queen-THARA?v=1)
 
 
-## [`Deploy Replit`]("https://github.com/CHAMI03/THARA-BOT"https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit)
-
+## [`Deploy Replit`]("https://github.com/CHAMI03/THARA-BOT")
 ## THANKS FOR USING THARA BOT 💃
  💃
