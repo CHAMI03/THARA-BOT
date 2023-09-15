@@ -1,4 +1,4 @@
-# ABHISHEK-SER Termux-Hosting-Guide
+# Queen THARA Termux-Hosting-Guide
 
 ##  Prerequisites
 
@@ -12,8 +12,8 @@
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone https://github.com/AbhishekSuresh2/ABHISHEK-SER
-> cd ABHISHEK-SER
+> git clone https://github.com/CHAMI03/THARA-BOT
+> cd Queen THARA
  ```
 
  Run this following command to install the dependencies 
