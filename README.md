@@ -11,5 +11,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CHAMIYA-blue.svg?style=for-the-badge&logo=github"></a>
 </p> 
 
+## [`SCAN QR CODE`](https://replit.com/@CHAMI031/Queen-THARA?v=1)
+
 ## THANKS FOR USING THARA BOT 💃
  💃
