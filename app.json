@@ -1,9 +1,9 @@
 {
-  "name": "ABHISHEK-SER",
+  "name": "Queen THARA",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
-  "logo": "https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "ABHISHEK-SER", "GURU-bot-md", "GURU-bot"],
+  "repository": "https://github.com/CHAMI03/THARA-BOT",
+  "logo": "https://i.ibb.co/qW37QJQ/0bb85ef643bdcee16c793b37e788ed44.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "Queen THARA", "GURU-bot-md", "GURU-bot"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
