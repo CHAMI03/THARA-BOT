@@ -11,11 +11,6 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CHAMIYA-blue.svg?style=for-the-badge&logo=github"></a>
 </p> 
 
-## [`FORK QUEEN THARA REPO`](https://github.com/CHAMI03/THARA-BOT/fork)
-
-## [`SCAN QR CODE`](https://replit.com/@CHAMI031/Queen-THARA?v=1)
-
-
-## [`Deploy Replit`]("https://github.com/CHAMI03/THARA-BOT ")
+## coming soon
 ## THANKS FOR USING THARA BOT 💃
  💃
